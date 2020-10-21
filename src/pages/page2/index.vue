@@ -1,0 +1,69 @@
+<template>
+    <div>
+        <div>page1</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page2</div>
+        <div>page21</div>
+    </div>
+</template>
+
+<script>
+    export default {
+        name: 'page2'
+    }
+</script>

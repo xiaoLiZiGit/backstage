@@ -1,0 +1,54 @@
+{
+    "code": 200,
+    "success": true,
+    "data": [
+        {
+            "path": "0000000",
+            "name": "导航一",
+            "icon": "el-icon-location",
+            "children": [
+                {
+                    "path": "/page2",
+                    "name": "选项1"
+                },
+                {
+                    "path": "/page3",
+                    "name": "选项2"
+                },
+                {
+                    "path": "/page4",
+                    "name": "选项3"
+                },
+                {
+                    "path": "/page5",
+                    "name": "选项4"
+                },
+                {
+                    "path": "000000",
+                    "name": "选项5",
+                    "children": [
+                        {
+                            "path": "/page7",
+                            "name": "选项6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "path": "/page8",
+            "name": "导航二",
+            "icon": "el-icon-menu"
+        },
+        {
+            "path": "/page9",
+            "name": "导航三",
+            "icon": "el-icon-document"
+        },
+        {
+            "path": "/page10",
+            "name": "导航四",
+            "icon": "el-icon-setting"
+        }
+    ]
+}
